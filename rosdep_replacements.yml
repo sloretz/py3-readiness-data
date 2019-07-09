@@ -1,0 +1,6 @@
+python2-python3-equivalent-keys:
+  python-catkin-pkg: python3-catkin-pkg
+  python-empy: python3-empy
+  python-mock: python3-mock
+  python-nose: python3-nose
+  python-yaml: python3-yaml
